@@ -2,10 +2,8 @@
   <img src="cubos.png" width="400" height="200">
 </p>
 
-<p align="center" style="font-size: 26px">
-    <b>Cubos Academy: Exercício Aula 01 - Setup de ferramentas.</b>
-</p>
-<hr>
+<h1 align="center">Cubos Academy:<br>
+  Exercício Aula 01 - Setup de ferramentas.</h1>
 
 - Esse repositório é fruto da atividade referente ao primeiro dia de aula do curso **Desenvolvimento de Software - Foco em Backend - iFood**.
 - O objetivo é explorar as principais ferramentas de versionamento utilizando Git + GitHub, onde foram utilizados os seguintes comandos:
